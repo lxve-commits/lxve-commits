@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lxve-commits
-- 👀 I’m interested in solving climate change
-- 🌱 I’m currently learning how to open source my donation website
-- 💞️ I’m looking to collaborate on non-profit projects that focus on activism and improving the world
+- 👀 I am a computer programmer and currently cofounding my own startup
 - 📫 How to reach me: Text me :) 004915150417202
 
 <!---

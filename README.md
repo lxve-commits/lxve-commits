@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lxve-commits
-- 👀 I am a computer programmer and currently cofounding my own startup
+- 👀 I'm passionate about empowering people through software
 
 <!---
 lxve-commits/lxve-commits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
